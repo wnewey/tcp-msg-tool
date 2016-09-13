@@ -1,0 +1,18 @@
+package com.csii.tmt.exception;
+
+import javax.swing.JOptionPane;
+
+public class UIException extends Exception{
+	
+	
+	public UIException() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	public UIException(String s)
+    {
+        super(s);
+        JOptionPane.showInputDialog(component, obj, s, i);
+    }
+}

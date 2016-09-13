@@ -1,0 +1,10 @@
+package com.csii.tmt.utils;
+
+public abstract class AssertUtils {
+	public static boolean isEmpty(String content) {
+		if ("".endsWith(content) || content == null) {
+			return true;
+		}
+		return false;
+	}
+}

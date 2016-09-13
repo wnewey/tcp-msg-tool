@@ -1,0 +1,30 @@
+package com.csii.tmt.net;
+
+import java.net.Socket;
+
+import javax.net.SocketFactory;
+
+public class SockClient {
+	
+	private String ip;
+	
+	private int port;
+	
+	public SockClient(String ip,int port){
+		this.ip = ip;
+		this.port = port;
+	}
+	
+	public void sendMessage(String message){
+		SocketFactory socketFactory = SocketFactory.getDefault();
+		Socket socket = socketFactory.createSocket(ip, Int);
+		socket.setReceiveBufferSize(8192);
+		socket.setSendBufferSize(8192);
+		socket.setSoTimeout(70000);
+		socket.setKeepAlive(false);
+		socket.setTcpNoDelay(false);
+		socket.getOutputStream().write(message.getBytes());
+		socket.getOutputStream().flush();
+		
+	}
+}

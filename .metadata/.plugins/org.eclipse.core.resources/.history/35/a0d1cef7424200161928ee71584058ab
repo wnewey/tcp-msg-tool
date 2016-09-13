@@ -1,0 +1,76 @@
+package com.csii.tmt.view;
+
+import static com.csii.tmt.utils.I18nUtils.getMessage;
+
+import java.awt.Color;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.BorderFactory;
+import javax.swing.JButton;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+
+import com.csii.tmt.domain.AppConfig;
+
+public class GroupPanel extends JPanel {
+	
+	private static final long serialVersionUID = 1L;
+
+	private JLabel ipLabel = new JLabel(getMessage("message.label.ipLabel"));
+	
+	private JTextField ipField = new JTextField();
+	
+	private JLabel portLabel = new JLabel(getMessage("message.label.portLabel"));
+	
+	private JTextField portField = new JTextField();
+	
+	private JButton sendBtn = new JButton(getMessage("message.button.sendBtn"));
+	
+	private JTextField msgLocationField = new JTextField();
+	
+	private JButton openBtn = new JButton(getMessage("message.button.openBtn"));
+	
+	public GroupPanel() {
+		
+		this.setBorder(BorderFactory.createLineBorder(Color.gray));
+		this.setLayout(null);
+		
+		ipLabel.setBounds(20,0,200,30);
+		this.add(ipLabel);
+		
+		ipField.setBounds(20,30 ,200,30);
+		ipField.setText(AppConfig.getInstance().getDefaultIp());
+		this.add(ipField);
+		
+		portLabel.setBounds(20,60,200,30);
+		this.add(portLabel);
+		
+		portField.setBounds(20,90,200,30);
+		portField.setText(AppConfig.getInstance().getDefaultPort());
+		this.add(portField);
+		
+		sendBtn.setBounds(20,290,200,30);
+		this.add(sendBtn);
+		
+		msgLocationField.setBounds(20, 200, 200, 60);
+		msgLocationField.setEditable(false);
+		this.add(msgLocationField);
+		
+		openBtn.setBounds(20, 290, 200, 30);
+		openBtn.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent evt) {
+				JOptionPane.showMessageDialog(null, "hello",
+						"hello2",
+						JOptionPane.ERROR_MESSAGE);
+			}
+		});
+		this.add(openBtn);
+		
+		this.setVisible(true);
+	}
+}

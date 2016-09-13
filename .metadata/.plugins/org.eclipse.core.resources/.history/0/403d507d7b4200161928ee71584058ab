@@ -1,0 +1,9 @@
+package com.csii.tmt.view;
+
+public class ResultMsgPanel {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

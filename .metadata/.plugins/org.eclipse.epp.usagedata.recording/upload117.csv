@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1466149683084
+error,log,,,"Error in JDT Core during AST creation",1466149683099
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1466149683099
+error,log,,,"Error in JDT Core during AST creation",1466149683099
+activated,editor,net.sf.jadclipse,3.3.0,"net.sf.jadclipse.JadclipseClassFileEditor",1466149683130
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1466149685096
+closed,editor,net.sf.jadclipse,3.3.0,"net.sf.jadclipse.JadclipseClassFileEditor",1466149685096
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.close",1466149685096
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1466149691835
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1466149693520
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1466149694690
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1466149709728
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1466149709884
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1466149735624
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1466149737247
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1466149738730
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1466149738886
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1466149739993
+opened,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1466149740664
+activated,editor,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1466149740695
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1466149747716
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1466149747747
+executed,command,org.eclipse.jdt.debug.ui,3.4.1.v20090811_r351,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1466149751647
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1466149751818
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1466149753609

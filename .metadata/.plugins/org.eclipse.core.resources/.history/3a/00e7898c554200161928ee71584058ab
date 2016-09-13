@@ -1,0 +1,10 @@
+package com.csii.tmt.exception;
+
+public class UIException extends Exception{
+
+	private void supe() {
+		// TODO Auto-generated method stub
+
+	}
+	
+}

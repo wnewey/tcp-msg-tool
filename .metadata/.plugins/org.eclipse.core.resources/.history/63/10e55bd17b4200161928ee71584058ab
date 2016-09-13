@@ -1,0 +1,12 @@
+package com.csii.tmt.view;
+
+import javax.swing.JTextArea;
+
+public class ResultMsgFrame {
+
+	private JTextArea textArea = new JTextArea();
+
+	public ResultMsgFrame(String resultMsg) {
+		t
+	}
+}

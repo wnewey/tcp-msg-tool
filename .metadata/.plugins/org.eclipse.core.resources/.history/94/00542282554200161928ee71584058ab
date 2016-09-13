@@ -1,0 +1,6 @@
+package com.csii.tmt.exception;
+
+public class UIException extends Exception{
+
+	
+}

@@ -1,0 +1,36 @@
+package com.csii.tmt.view;
+
+import static com.csii.tmt.utils.I18nUtils.getMessage;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+import javax.swing.JTextPane;
+import javax.swing.plaf.metal.MetalBorders;
+
+public class RightPanel extends JPanel {
+
+
+	
+	private JTextArea msgContentArea = new JTextArea();
+	
+	private JScrollPane scrollPane = new JScrollPane(msgContentArea);
+	
+	public RightPanel() {
+
+		this.setLayout(null);
+
+		
+		scrollPane.setBounds(20, 40, 600, 400);
+		scrollPane.setBorder(MetalBorders.getTextFieldBorder());
+		//msgContentArea.setLineWrap(true);
+		
+		this.add(scrollPane);
+	}
+}

@@ -1,0 +1,1108 @@
+!SESSION 2016-06-17 08:02:16.925 -----------------------------------------------
+eclipse.buildId=M20090917-0800
+java.version=1.8.0_11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.131
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/nio/file/Files.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/Instant.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/LocalDate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/LocalDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/LocalTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/MonthDay.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/OffsetDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/OffsetTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.178
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/Year.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/YearMonth.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/ZonedDateTime.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/chrono/AbstractChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/chrono/HijrahChronology.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/format/DateTimeFormatter.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.193
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/format/DateTimeFormatterBuilder$ReducedPrinterParser.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/format/DateTimeFormatterBuilder.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/temporal/TemporalAdjusters.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/time/temporal/TemporalQueries.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Collections$CheckedMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Collections$CopiesList.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.209
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Collections$UnmodifiableMap$UnmodifiableEntrySet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.224
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/PrimitiveIterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.224
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/PrimitiveIterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.224
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/PrimitiveIterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.224
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Spliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.224
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Spliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.224
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Spliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.240
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/TreeMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.240
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.240
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/concurrent/ConcurrentSkipListMap$EntrySpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.256
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/BiConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.256
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/BiPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.256
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/BinaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.256
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/Consumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.256
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/DoubleConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/DoublePredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/DoubleUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/Function.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/IntConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/IntPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/IntUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/LongConsumer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/LongPredicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/LongUnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.271
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/Predicate.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.287
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/UnaryOperator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.287
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/regex/Pattern.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.287
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/AbstractPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.287
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Collectors.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.287
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/DistinctOps$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.302
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/DoublePipeline$5$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.302
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/DoublePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.302
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/FindOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.302
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/ForEachOps$ForEachOrderedTask.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.318
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/IntPipeline$7$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.318
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/IntPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.318
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/LongPipeline$6$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.318
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/LongPipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/MatchOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Node$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Node$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Node$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Node.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.334
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.349
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Nodes$CollectorTask$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.349
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/ReferencePipeline$10$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.349
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/ReferencePipeline$8$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.349
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/ReferencePipeline$9$1.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/ReferencePipeline.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/SliceOps$2.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/SliceOps$3.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/SliceOps$4.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/SliceOps.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/SortedOps$RefSortingSink.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.365
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/SpinedBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$DistinctSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$DoubleWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$IntWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$LongWrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfDouble.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfInt.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfLong.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$SliceSpliterator$OfRef.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.380
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/StreamSpliterators$WrappingSpliterator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.396
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/stream/Tripwire.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.474
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|javax/sql/rowset/spi/SyncFactory.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.614
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/applet/AppletPanel.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.630
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/awt/shell/Win32ShellFolderManager2$ComInvoker.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.646
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/font/CreatedFontTracker$TempFileDeletionHook.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.677
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/java2d/opengl/OGLRenderQueue.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.708
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/nio/ch/ThreadPool.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.802
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/security/x509/X509CertImpl.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.833
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/java2d/d3d/D3DScreenUpdateManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.848
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/java2d/Disposer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.848
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/font/SunFontManager.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.848
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/awt/windows/WToolkit.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.864
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|sun/awt/AWTAutoShutdown.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.911
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/function/BiFunction.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.911
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/concurrent/ConcurrentMap.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.926
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Map$Entry.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.926
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Comparator.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.926
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/BitSet.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.926
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/util/Arrays.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.942
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/nio/CharBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.973
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/lang/reflect/AnnotatedElement.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:24.989
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/rt.jar|java/lang/CharSequence.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.655
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/AccessorPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.655
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/ArrayBufferView.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.655
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/DataPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.655
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/GenericPropertyDescriptor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.655
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/Global.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArray.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeArrayBuffer.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.670
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeBoolean$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDate$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeDebug$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.686
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.702
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.702
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.702
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeEvalError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.702
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.702
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.717
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.717
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFloat64Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.717
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.717
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeFunction$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeInt8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJava$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.733
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJavaImporter$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSAdapter$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeJSON$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeMath$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeNumber$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeObject$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.748
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRangeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeReferenceError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExp.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeRegExpExecResult.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.764
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeString.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeSyntaxError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeTypeError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.780
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint16Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint32Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8Array$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeUint8ClampedArray$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.795
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Constructor.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.811
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError$Prototype.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.core 2 0 2016-06-17 08:03:28.811
+!MESSAGE The Java indexing could not index C:/Program Files/Java/jdk1.8.0_11/jre/lib/ext/nashorn.jar|jdk/nashorn/internal/objects/NativeURIError.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.jdt.ui 4 2 2016-06-17 15:48:03.006
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor$3.run(ClassFileEditor.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2016-06-17 15:48:03.037
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor$3.run(ClassFileEditor.java:683)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2016-06-17 15:48:03.068
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.getOverrideIndicators(OverrideIndicatorLabelDecorator.java:161)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.computeAdornmentFlags(OverrideIndicatorLabelDecorator.java:136)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.decorate(OverrideIndicatorLabelDecorator.java:272)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:269)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2016-06-17 15:48:03.068
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.getOverrideIndicators(OverrideIndicatorLabelDecorator.java:161)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.computeAdornmentFlags(OverrideIndicatorLabelDecorator.java:136)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.decorate(OverrideIndicatorLabelDecorator.java:272)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:269)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2016-06-17 15:48:03.084
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.getOverrideIndicators(OverrideIndicatorLabelDecorator.java:161)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.computeAdornmentFlags(OverrideIndicatorLabelDecorator.java:136)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.decorate(OverrideIndicatorLabelDecorator.java:272)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:269)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2016-06-17 15:48:03.084
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.getOverrideIndicators(OverrideIndicatorLabelDecorator.java:161)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.computeAdornmentFlags(OverrideIndicatorLabelDecorator.java:136)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.decorate(OverrideIndicatorLabelDecorator.java:272)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:269)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2016-06-17 15:48:03.099
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.getOverrideIndicators(OverrideIndicatorLabelDecorator.java:161)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.computeAdornmentFlags(OverrideIndicatorLabelDecorator.java:136)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.decorate(OverrideIndicatorLabelDecorator.java:272)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:269)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2016-06-17 15:48:03.099
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:863)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:657)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:544)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:537)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:478)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.getOverrideIndicators(OverrideIndicatorLabelDecorator.java:161)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.computeAdornmentFlags(OverrideIndicatorLabelDecorator.java:136)
+	at org.eclipse.jdt.ui.OverrideIndicatorLabelDecorator.decorate(OverrideIndicatorLabelDecorator.java:272)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:269)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:81)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:365)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:347)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:371)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:331)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2016-07-05 07:37:35.659 -----------------------------------------------
+eclipse.buildId=M20090917-0800
+java.version=1.5.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 4 4 2016-07-05 08:56:10.752
+!MESSAGE Exception loading preferences from: /msg-generator-tool-v1.0/.settings/org.eclipse.jdt.core.prefs.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: C:\Users\tzbank\Desktop\msg-generator-tool-v1.0\.settings\org.eclipse.jdt.core.prefs.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:366)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:667)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:288)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:455)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:307)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.getChild(EclipsePreferences.java:412)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:541)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:669)
+	at org.eclipse.core.resources.ProjectScope.getNode(ProjectScope.java:67)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.getNode(JavaEditor.java:360)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.contains(JavaEditor.java:386)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.getVisibleStore(ChainedPreferenceStore.java:529)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.handlePropertyChangeEvent(ChainedPreferenceStore.java:413)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.access$0(ChainedPreferenceStore.java:408)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore$PropertyChangeListener.propertyChange(ChainedPreferenceStore.java:69)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.firePropertyChangeEvent(JavaEditor.java:396)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$1.run(JavaEditor.java:329)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3855)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3476)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:173)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:388)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:330)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:557)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:153)
+	at org.eclipse.ltk.ui.refactoring.resource.DeleteResourcesWizard$DeleteResourcesRefactoringConfigurationPage.performFinish(DeleteResourcesWizard.java:151)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:621)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:453)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:624)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:228)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3880)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3473)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:143)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:155)
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:40)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:476)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommandInContext(HandlerService.java:270)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:95)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:47)
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:481)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:162)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:250)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3880)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3473)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:592)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: java.io.FileNotFoundException: C:\Users\tzbank\Desktop\msg-generator-tool-v1.0\.settings\org.eclipse.jdt.core.prefs (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:357)
+	... 79 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2016-07-05 08:56:10.783
+!MESSAGE File not found: C:\Users\tzbank\Desktop\msg-generator-tool-v1.0\.settings\org.eclipse.jdt.core.prefs.
+!STACK 0
+java.io.FileNotFoundException: C:\Users\tzbank\Desktop\msg-generator-tool-v1.0\.settings\org.eclipse.jdt.core.prefs (系统找不到指定的路径。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:357)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:667)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:288)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:455)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:307)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.getChild(EclipsePreferences.java:412)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:541)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:669)
+	at org.eclipse.core.resources.ProjectScope.getNode(ProjectScope.java:67)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.getNode(JavaEditor.java:360)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.contains(JavaEditor.java:386)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.getVisibleStore(ChainedPreferenceStore.java:529)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.handlePropertyChangeEvent(ChainedPreferenceStore.java:413)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.access$0(ChainedPreferenceStore.java:408)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore$PropertyChangeListener.propertyChange(ChainedPreferenceStore.java:69)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.firePropertyChangeEvent(JavaEditor.java:396)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$1.run(JavaEditor.java:329)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3855)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3476)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:173)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:388)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:330)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:557)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:153)
+	at org.eclipse.ltk.ui.refactoring.resource.DeleteResourcesWizard$DeleteResourcesRefactoringConfigurationPage.performFinish(DeleteResourcesWizard.java:151)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:621)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:453)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:624)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:228)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3880)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3473)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:143)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:155)
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:40)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:476)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommandInContext(HandlerService.java:270)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:95)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:47)
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:481)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:162)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:250)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3880)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3473)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:592)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY org.eclipse.equinox.preferences 4 4 2016-07-05 08:56:10.955
+!MESSAGE Exception loading preferences from: C:/Users/tzbank/Desktop/msg-generator-tool-v1.0/.settings/org.eclipse.jdt.core.prefs.
+!STACK 0
+org.osgi.service.prefs.BackingStoreException: Exception loading preferences from: /msg-generator-tool-v1.0/.settings/org.eclipse.jdt.core.prefs.
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:460)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:307)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.getChild(EclipsePreferences.java:412)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:541)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:669)
+	at org.eclipse.core.resources.ProjectScope.getNode(ProjectScope.java:67)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.getNode(JavaEditor.java:360)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.contains(JavaEditor.java:386)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.getVisibleStore(ChainedPreferenceStore.java:529)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.handlePropertyChangeEvent(ChainedPreferenceStore.java:413)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore.access$0(ChainedPreferenceStore.java:408)
+	at org.eclipse.ui.texteditor.ChainedPreferenceStore$PropertyChangeListener.propertyChange(ChainedPreferenceStore.java:69)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$EclipsePreferencesAdapter.firePropertyChangeEvent(JavaEditor.java:396)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor$1.run(JavaEditor.java:329)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3855)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3476)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:173)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:388)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:330)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:557)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:153)
+	at org.eclipse.ltk.ui.refactoring.resource.DeleteResourcesWizard$DeleteResourcesRefactoringConfigurationPage.performFinish(DeleteResourcesWizard.java:151)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:621)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:453)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:624)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:228)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3880)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3473)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:143)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:155)
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:40)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:476)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommandInContext(HandlerService.java:270)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:95)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:47)
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:481)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:162)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:250)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3880)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3473)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:592)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY org.sf.easyexplore 1 4 2016-07-05 10:37:51.604
+!MESSAGE running: explorer.exe E:\tcp-msg-tool\tcp-msg-tool\libs
+
+
+!ENTRY org.sf.easyexplore 1 4 2016-07-05 10:38:51.201
+!MESSAGE running: explorer.exe E:\tcp-msg-tool\tcp-msg-tool\libs
+
+
+!ENTRY org.sf.easyexplore 1 4 2016-07-05 15:04:48.639
+!MESSAGE running: explorer.exe E:\tcp-msg-tool\tcp-msg-tool
+
+
+!ENTRY org.sf.easyexplore 1 4 2016-07-05 15:26:30.087
+!MESSAGE running: explorer.exe E:\tcp-msg-tool\tcp-msg-tool\src
+
+
+!ENTRY org.sf.easyexplore 4 4 2016-07-05 17:40:13.301
+!MESSAGE java.lang.NullPointerException
+	at org.sf.easyexplore.actions.EasyExploreAction.selectionChanged(EasyExploreAction.java:99)
+	at org.eclipse.ui.internal.PluginAction.refreshEnablement(PluginAction.java:206)
+	at org.eclipse.ui.internal.PluginAction.selectionChanged(PluginAction.java:277)
+	at org.eclipse.ui.internal.ObjectPluginAction.partClosed(ObjectPluginAction.java:49)
+	at org.eclipse.ui.internal.PartListenerList2$3.run(PartListenerList2.java:100)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:888)
+	at org.eclipse.ui.internal.PartListenerList2.fireEvent(PartListenerList2.java:55)
+	at org.eclipse.ui.internal.PartListenerList2.firePartClosed(PartListenerList2.java:98)
+	at org.eclipse.ui.internal.PartService.firePartClosed(PartService.java:227)
+	at org.eclipse.ui.internal.WorkbenchPagePartList.firePartClosed(WorkbenchPagePartList.java:39)
+	at org.eclipse.ui.internal.PartList.partClosed(PartList.java:274)
+	at org.eclipse.ui.internal.PartList.removePart(PartList.java:186)
+	at org.eclipse.ui.internal.WorkbenchPage.disposePart(WorkbenchPage.java:1714)
+	at org.eclipse.ui.internal.WorkbenchPage.partRemoved(WorkbenchPage.java:1707)
+	at org.eclipse.ui.internal.ViewFactory.releaseView(ViewFactory.java:257)
+	at org.eclipse.ui.internal.Perspective.dispose(Perspective.java:293)
+	at org.eclipse.ui.internal.WorkbenchPage.dispose(WorkbenchPage.java:1786)
+	at org.eclipse.ui.internal.WorkbenchWindow.closeAllPages(WorkbenchWindow.java:851)
+	at org.eclipse.ui.internal.WorkbenchWindow.hardClose(WorkbenchWindow.java:1675)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:724)
+	at org.eclipse.ui.internal.WorkbenchWindow.access$0(WorkbenchWindow.java:700)
+	at org.eclipse.ui.internal.WorkbenchWindow$5.run(WorkbenchWindow.java:816)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:814)
+	at org.eclipse.jface.window.WindowManager.close(WindowManager.java:109)
+	at org.eclipse.ui.internal.Workbench$16.run(Workbench.java:930)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:927)
+	at org.eclipse.ui.internal.Workbench.access$15(Workbench.java:856)
+	at org.eclipse.ui.internal.Workbench$23.run(Workbench.java:1100)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1098)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1070)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:721)
+	at org.eclipse.ui.internal.WorkbenchWindow.access$0(WorkbenchWindow.java:700)
+	at org.eclipse.ui.internal.WorkbenchWindow$5.run(WorkbenchWindow.java:816)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:814)
+	at org.eclipse.jface.window.Window.handleShellCloseEvent(Window.java:741)
+	at org.eclipse.jface.window.Window$3.shellClosed(Window.java:687)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:92)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1027)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1012)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:308)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1645)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:3948)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:342)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1578)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2010)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4589)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2405)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4036)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:342)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1578)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2010)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4589)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2405)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:492)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4036)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:342)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1578)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2010)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4589)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2410)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3471)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:592)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!SESSION 2016-09-01 08:47:27.475 -----------------------------------------------
+eclipse.buildId=M20090917-0800
+java.version=1.8.0_11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -Xmx1024M
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -Xmx1024M
+
+!ENTRY org.sf.easyexplore 1 4 2016-09-01 15:46:32.305
+!MESSAGE running: explorer.exe E:\tcp-msg-tool\tcp-msg-tool
+

@@ -1,0 +1,34 @@
+package com.csii.tmt.domain;
+
+import com.csii.tmt.core.AppConfigLoader;
+
+
+public class AppConfig {
+
+	private String language;
+
+	private String defaultIp;
+	
+	
+	private static AppConfig appConfig;
+
+	public String getLanguage() {
+		return language;
+	}
+
+	public void setLanguage(String language) {
+		this.language = language;
+	}
+
+	private AppConfig() {}
+
+	public synchronized static AppConfig getInstance() {
+		if (appConfig == null) {
+			appConfig = new AppConfig();
+			AppConfigLoader.loadAppConfig();
+			return appConfig;
+		} else {
+			return appConfig;
+		}
+	}
+}

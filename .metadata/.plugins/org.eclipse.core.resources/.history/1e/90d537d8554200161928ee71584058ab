@@ -1,0 +1,14 @@
+package com.csii.tmt.exception;
+
+import javax.swing.JOptionPane;
+
+public class UIException extends Exception{
+	
+	public UIException() { }
+	
+	public UIException(String msg)
+    {
+        super(msg);
+        JOptionPane.showInputDialog(component, obj, s, i);
+    }
+}

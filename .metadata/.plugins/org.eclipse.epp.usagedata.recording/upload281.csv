@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1467770257263
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1467770257263
+started,bundle,org.eclipse.wst.common.emf,1.1.301.v200908181930,"org.eclipse.wst.common.emf",1467770257278
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1467770257278
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.1.301.v200908101600,"org.eclipse.wst.common.frameworks.ui",1467770257278
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.1.v200908111817,"org.eclipse.wst.common.project.facet.core",1467770257278
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1467770257278
+started,bundle,org.eclipse.wst.dtd.ui,1.0.400.v200904300717,"org.eclipse.wst.dtd.ui",1467770257294
+started,bundle,org.eclipse.wst.sse.core,1.1.401.v200909172215,"org.eclipse.wst.sse.core",1467770257294
+started,bundle,org.eclipse.wst.sse.ui,1.1.101.v200908261807,"org.eclipse.wst.sse.ui",1467770257294
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1467770257294
+started,bundle,org.eclipse.wst.web,1.1.301.v200909021400,"org.eclipse.wst.web",1467770257310
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1467770257310
+started,bundle,org.eclipse.wst.xml.core,1.1.401.v200908242115,"org.eclipse.wst.xml.core",1467770257325
+started,bundle,org.eclipse.wst.xml.ui,1.1.1.v200908242115,"org.eclipse.wst.xml.ui",1467770257325
+started,bundle,org.tigris.subversion.clientadapter,1.6.4.1,"org.tigris.subversion.clientadapter",1467770257325
+started,bundle,org.tigris.subversion.subclipse.core,1.6.5,"org.tigris.subversion.subclipse.core",1467770257325
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.5,"org.tigris.subversion.subclipse.ui",1467770257341
+os,sysinfo,,,"win32",1467770257341
+arch,sysinfo,,,"x86",1467770257341
+ws,sysinfo,,,"win32",1467770257341
+locale,sysinfo,,,"zh_CN",1467770257341
+processors,sysinfo,,,"4",1467770257341
+java.runtime.name,sysinfo,,,"Java(TM) 2 Runtime Environment, Standard Edition",1467770257341
+java.runtime.version,sysinfo,,,"1.5.0_22-b03",1467770257341

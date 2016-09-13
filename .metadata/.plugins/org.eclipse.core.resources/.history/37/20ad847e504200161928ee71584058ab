@@ -1,0 +1,5 @@
+package com.csii.tmt.utils;
+
+public class AssertUtils {
+
+}

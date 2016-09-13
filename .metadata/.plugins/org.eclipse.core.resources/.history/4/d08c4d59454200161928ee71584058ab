@@ -1,0 +1,25 @@
+package com.csii.tmt.view;
+
+import static com.csii.tmt.utils.I18nUtils.getMessage;
+
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+
+public class LeftPanel extends JPanel {
+
+	private static final long serialVersionUID = 1L;
+
+	private JLabel tipInfoLabel = new JLabel(getMessage("message.label.tipInfoLabel"));
+
+	private GroupPanel groupPanel = new GroupPanel(); 
+	
+	public LeftPanel() {
+		this.setLayout(null);
+		tipInfoLabel.setBounds(30, 10, 100, 30);
+		this.add(tipInfoLabel);
+		
+		groupPanel.setBounds(30, 40, 250, 450);
+		this.add(groupPanel);
+	}
+
+}

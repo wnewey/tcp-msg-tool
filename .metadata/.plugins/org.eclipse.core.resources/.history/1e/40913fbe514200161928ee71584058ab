@@ -1,0 +1,11 @@
+package com.csii.tmt.utils;
+
+import javax.swing.JOptionPane;
+
+public abstract class AssertUtils {
+	public static void isEmpty(String content) {
+		if ("".endsWith(content) || content == null) {
+			JOptionPane.showMessageDialog(null, "", "", "");
+		}
+	}
+}

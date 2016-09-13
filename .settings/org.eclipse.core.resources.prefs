@@ -1,0 +1,5 @@
+#Fri Jun 17 10:46:09 CST 2016
+eclipse.preferences.version=1
+encoding//src/com/csii/tmt/msg/appmsg_zh_CN.properties=UTF-8
+encoding//src/commons-logging.properties=GBK
+encoding//src/logback.xml=GBK

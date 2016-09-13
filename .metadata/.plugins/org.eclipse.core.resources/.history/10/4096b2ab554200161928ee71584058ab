@@ -1,0 +1,15 @@
+package com.csii.tmt.exception;
+
+public class UIException extends Exception{
+	
+	
+	public UIException() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	
+	public Exception(String s)
+    {
+        super(s);
+    }
+}

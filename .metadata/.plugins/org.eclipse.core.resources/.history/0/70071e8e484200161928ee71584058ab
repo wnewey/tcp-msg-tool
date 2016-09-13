@@ -1,0 +1,6 @@
+package com.csii.tmt.event;
+
+public abstract class EventProcessor {
+	
+	abstract void procEvent();
+}
