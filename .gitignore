@@ -6,6 +6,5 @@ target/
 .DS_Store
 .gitattributes
 .settings
-.bin
 msg/
 out/

@@ -1,56 +1,64 @@
 package com.csii.tmt.event;
 
-import javax.swing.JButton;
-import javax.swing.JFileChooser;
-import javax.swing.JMenuItem;
-import javax.swing.JTextArea;
-import javax.swing.JTextField;
+import javax.swing.*;
 
 public abstract class EventProcessor {
 
-	protected JButton sendBtn;
+    protected JButton sendBtn;
 
-	protected JButton openBtn;
+    protected JButton openBtn;
 
-	protected JTextArea msgContentArea;
+    protected JTextArea sendMsgContentArea;
 
-	protected JTextField ipField;
+    protected JTextArea receiveMsgContentArea;
 
-	protected JTextField portField;
+    protected JTextField ipField;
 
-	protected JTextArea msgLocationArea;
+    protected JTextField portField;
 
-	protected JMenuItem exitItem;
+    protected JTextField charsetField;
 
-	protected JFileChooser fileChooser = new JFileChooser();
+    protected JTextArea msgLocationArea;
 
-	public void setSendBtn(JButton sendBtn) {
-		this.sendBtn = sendBtn;
-	}
+    protected JMenuItem exitItem;
 
-	public void setOpenBtn(JButton openBtn) {
-		this.openBtn = openBtn;
-	}
+    protected JFileChooser fileChooser = new JFileChooser();
 
-	public void setMsgContentArea(JTextArea msgContentArea) {
-		this.msgContentArea = msgContentArea;
-	}
+    public void setSendBtn(JButton sendBtn) {
+        this.sendBtn = sendBtn;
+    }
 
-	public void setIpField(JTextField ipField) {
-		this.ipField = ipField;
-	}
+    public void setOpenBtn(JButton openBtn) {
+        this.openBtn = openBtn;
+    }
 
-	public void setPortField(JTextField portField) {
-		this.portField = portField;
-	}
+    public void setSendMsgContentArea(JTextArea sendMsgContentArea) {
+        this.sendMsgContentArea = sendMsgContentArea;
+    }
 
-	public void setMsgLocationArea(JTextArea msgLocationArea) {
-		this.msgLocationArea = msgLocationArea;
-	}
+    public void setReceiveMsgContentArea(JTextArea receiveMsgContentArea) {
+        this.receiveMsgContentArea = receiveMsgContentArea;
+    }
 
-	public void setExitItem(JMenuItem exitItem) {
-		this.exitItem = exitItem;
-	}
+    public void setIpField(JTextField ipField) {
+        this.ipField = ipField;
+    }
 
-	public abstract void procEvent();
+    public void setPortField(JTextField portField) {
+        this.portField = portField;
+    }
+
+    public void setCharsetField(JTextField charsetField) {
+        this.charsetField = charsetField;
+    }
+
+    public void setMsgLocationArea(JTextArea msgLocationArea) {
+        this.msgLocationArea = msgLocationArea;
+    }
+
+    public void setExitItem(JMenuItem exitItem) {
+        this.exitItem = exitItem;
+    }
+
+    public abstract void procEvent();
 }

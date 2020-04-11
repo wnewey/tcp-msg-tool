@@ -1,29 +1,47 @@
 package com.csii.tmt.view;
 
-import javax.swing.JPanel;
-import javax.swing.JScrollPane;
-import javax.swing.JTextArea;
+import com.csii.tmt.event.EventProcessor;
+
+import javax.swing.*;
 import javax.swing.plaf.metal.MetalBorders;
 
-import com.csii.tmt.event.EventProcessor;
+import static com.csii.tmt.utils.I18nUtils.getMessage;
 
 public class RightPanel extends JPanel {
 
-	private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 1L;
 
-	private JTextArea msgContentArea = new JTextArea();
-	
-	private JScrollPane scrollPane = new JScrollPane(msgContentArea);
-	
-	public RightPanel(EventProcessor eventProcessor) {
+    private JLabel inputMsgLabel = new JLabel(getMessage("message.label.inputMsgLabel"));
 
-		this.setLayout(null);
-		
-		scrollPane.setBounds(20, 30, 600, 460);
-		scrollPane.setBorder(MetalBorders.getTextFieldBorder());
-		//msgContentArea.setLineWrap(true);
-		this.add(scrollPane);
-		
-		eventProcessor.setMsgContentArea(msgContentArea);
-	}
+    private JTextArea sendMsgContentArea = new JTextArea();
+    private JScrollPane sendMsgScrollPanel = new JScrollPane(sendMsgContentArea);
+
+    private JButton sendBtn = new JButton(getMessage("message.button.sendBtn"));
+
+    private JTextArea receiveMsgContentArea = new JTextArea();
+    private JScrollPane receiveMsgScrollPanel = new JScrollPane(receiveMsgContentArea);
+
+    public RightPanel(EventProcessor eventProcessor) {
+
+        this.setLayout(null);
+
+        inputMsgLabel.setBounds(20, 0, 200, 30);
+        this.add(inputMsgLabel);
+
+        sendMsgScrollPanel.setBounds(20, 30, 600, 230);
+        sendMsgScrollPanel.setBorder(MetalBorders.getTextFieldBorder());
+        //msgContentArea.setLineWrap(true);
+        this.add(sendMsgScrollPanel);
+
+        sendBtn.setBounds(520, 260, 100, 30);
+        this.add(sendBtn);
+
+        receiveMsgScrollPanel.setBounds(20, 300, 600, 230);
+        receiveMsgScrollPanel.setBorder(MetalBorders.getTextFieldBorder());
+        this.add(receiveMsgScrollPanel);
+
+        eventProcessor.setSendMsgContentArea(sendMsgContentArea);
+        eventProcessor.setSendBtn(sendBtn);
+        eventProcessor.setReceiveMsgContentArea(receiveMsgContentArea);
+    }
 }

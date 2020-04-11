@@ -2,48 +2,58 @@ package com.csii.tmt.domain;
 
 import com.csii.tmt.core.AppConfigLoader;
 
-
 public class AppConfig {
 
-	private String language;
+    private String language;
 
-	private String defaultIp;
-	
-	private String defaultPort;
-	
-	private static AppConfig appConfig;
+    private String defaultIp;
 
-	public String getLanguage() {
-		return language;
-	}
+    private String defaultPort;
 
-	public void setLanguage(String language) {
-		this.language = language;
-	}
+    private String defaultCharset;
 
-	public String getDefaultIp() {
-		return defaultIp;
-	}
+    private static AppConfig appConfig;
 
-	public void setDefaultIp(String defaultIp) {
-		this.defaultIp = defaultIp;
-	}
+    public String getLanguage() {
+        return language;
+    }
 
-	public String getDefaultPort() {
-		return defaultPort;
-	}
+    public void setLanguage(String language) {
+        this.language = language;
+    }
 
-	public void setDefaultPort(String defaultPort) {
-		this.defaultPort = defaultPort;
-	}
+    public String getDefaultIp() {
+        return defaultIp;
+    }
 
-	private AppConfig() {}
+    public void setDefaultIp(String defaultIp) {
+        this.defaultIp = defaultIp;
+    }
 
-	public synchronized static AppConfig getInstance() {
-		if (appConfig == null) {
-			appConfig = new AppConfig();
-			AppConfigLoader.loadAppConfig();
-		} 
-		return appConfig;
-	}
+    public String getDefaultPort() {
+        return defaultPort;
+    }
+
+    public void setDefaultPort(String defaultPort) {
+        this.defaultPort = defaultPort;
+    }
+
+    public String getDefaultCharset() {
+        return defaultCharset;
+    }
+
+    public void setDefaultCharset(String defaultCharset) {
+        this.defaultCharset = defaultCharset;
+    }
+
+    private AppConfig() {
+    }
+
+    public synchronized static AppConfig getInstance() {
+        if (appConfig == null) {
+            appConfig = new AppConfig();
+            AppConfigLoader.loadAppConfig();
+        }
+        return appConfig;
+    }
 }
