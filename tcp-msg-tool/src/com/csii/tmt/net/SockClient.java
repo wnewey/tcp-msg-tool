@@ -16,30 +16,30 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 import com.csii.tmt.exception.UIException;
-import com.csii.tmt.view.ResultMsgFrame;
+import com.csii.tmt.view.SendMsgFrame;
 
 public class SockClient implements Runnable{
-	
+
 	private String ip;
-	
+
 	private int port;
-	
+
 	private String message;
-	
+
 	private int receiveBufferSize = 8192;
-	
+
 	private int sendBufferSize = 8192;
-	
+
 	private int soTimeout = 70000;
-	
+
 	private Log log = LogFactory.getLog(this.getClass());
-	
+
 	public SockClient(String ip,int port,String message){
 		this.ip = ip;
 		this.port = port;
 		this.message = message;
 	}
-	
+
 	public void sendMessage() throws UIException{
 		SocketFactory socketFactory = SocketFactory.getDefault();
 		Socket socket;
@@ -58,12 +58,12 @@ public class SockClient implements Runnable{
 			socket.setTcpNoDelay(false);
 			socket.getOutputStream().write(bXMLResult);
 			socket.getOutputStream().flush();
-			
+
 			//返回数据处理
 			InputStream stream = socket.getInputStream();
 			BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(stream, "8859_1"));
 			ByteArrayOutputStream baos2 = new ByteArrayOutputStream();
-			
+
 			Matcher matcher;
 			String endTagName = "Message";
 			Pattern pattern = Pattern.compile("</ *" + endTagName + " *>");
@@ -77,7 +77,7 @@ public class SockClient implements Runnable{
 			} while (!matcher.find());
 			log.info("Recieve from MServer:\r\n");
 			log.info(baos2.toString());
-			new ResultMsgFrame(baos2.toString());
+			new SendMsgFrame(baos2.toString());
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
 			throw new UIException(e.getMessage());

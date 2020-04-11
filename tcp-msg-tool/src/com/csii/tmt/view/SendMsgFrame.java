@@ -11,16 +11,16 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-public class ResultMsgFrame extends JFrame {
+public class SendMsgFrame extends JFrame {
 
 	private static final long serialVersionUID = 1L;
-	
+
 	private JTextArea textArea = new JTextArea();
-	
+
 	private JScrollPane scrollPane = new JScrollPane(textArea);
 
-	public ResultMsgFrame(String resultMsg) {
-		
+	public SendMsgFrame(String resultMsg) {
+
 		this.setResizable(false);
 		this.setTitle(getMessage("message.window.title"));
 		this.setBounds(new Rectangle(600, 800));
@@ -28,13 +28,13 @@ public class ResultMsgFrame extends JFrame {
 		this.setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE );
 		this.addWindowListener(new WindowAdapter() {
 			public void windowClosing(WindowEvent windowevent) {
-				ResultMsgFrame.this.dispose();
+				SendMsgFrame.this.dispose();
 			}
 		});
-		
+
 		textArea.setText(resultMsg);
 		this.add(scrollPane,BorderLayout.CENTER);
-		
+
 		this.setVisible(true);
 	}
 }
