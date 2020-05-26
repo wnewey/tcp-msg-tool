@@ -1,5 +1,0 @@
-package com.csii.tmt.event;
-
-public interface EventProcessor {
-	
-}

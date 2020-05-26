@@ -10,6 +10,8 @@ import javax.swing.JOptionPane;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.*;
+import java.lang.management.ManagementFactory;
+import java.lang.management.RuntimeMXBean;
 
 import static com.csii.tmt.utils.I18nUtils.getMessage;
 
@@ -51,6 +53,7 @@ public class DefaultEventProcessor extends EventProcessor {
         });
 
         sendBtn.addActionListener(new ActionListener() {
+
             public void actionPerformed(ActionEvent event) {
                 final String msgContent = sendMsgContentArea.getText();
                 if (AssertUtils.isEmpty(msgContent, getMessage("message.assert.sendmsg.mustnot.empty"))) {
@@ -65,26 +68,34 @@ public class DefaultEventProcessor extends EventProcessor {
                     return;
                 }
                 try {
+                    receiveMsgContentArea.setText("请求中...");
 
                     // new SockClient(ip, Integer.parseInt(port), msgContent);
-                    new Thread(
-                            new Runnable() {
-                                @Override
-                                public void run() {
+                    // CountDownLatch countDownLatch = new CountDownLatch(200);
+                    // AtomicInteger atomicInteger = new AtomicInteger(0);
+                    for (int i = 0; i < 200; i++) {
+                        new Thread(
+                                new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        try {
+                                            // countDownLatch.await();
+                                            SocketClient sc = new SocketClient(ip, Integer.parseInt(port), 60);
 
-                                    SocketClient sc = new SocketClient(ip, Integer.parseInt(port), 60);
-
-                                    try {
-                                        sc.makeConnection();
-                                        String reciev = sc.sendDocument(msgContent);
-                                        receiveMsgContentArea.setText(reciev);
-                                    } catch (Exception e) {
-                                        JOptionPane.showMessageDialog(null, e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
-                                        e.printStackTrace();
+                                            sc.makeConnection();
+                                            String reciev = sc.sendDocument(msgContent);
+                                            receiveMsgContentArea.setText(reciev);
+                                            // System.out.println("成功次数：" + atomicInteger.addAndGet(1));
+                                        } catch (Exception e) {
+                                            JOptionPane.showMessageDialog(null, e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                                            e.printStackTrace();
+                                        }
                                     }
                                 }
-                            }
-                    ).start();
+                        ).start();
+                        // countDownLatch.countDown();
+                    }
+
                 } catch (Exception e) {
                     e.printStackTrace();
                 }

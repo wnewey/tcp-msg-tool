@@ -1,9 +1,0 @@
-package com.csii.tmt.utils;
-
-public abstract class AssertUtils {
-	public static void isEmpty(String content) {
-		if ("".endsWith(content) || content == null) {
-			JOptionPane
-		}
-	}
-}
